@@ -6,9 +6,9 @@ Start a focus session and watch your daily charge grow in the menu bar and dashb
 
 ## Download
 
-[Glow 0.1.0 beta ZIP for Apple Silicon — pending release](https://github.com/Blacklord100/glow/releases/download/v0.1.0/Glow-0.1.0-arm64.zip) · [Draft release notes](docs/release-notes-0.1.0.md)
+[Download Glow 0.1.0 beta for Apple Silicon](https://github.com/Blacklord100/glow/releases/download/v0.1.0/Glow-0.1.0-arm64.zip) · [Release notes](docs/release-notes-0.1.0.md)
 
-**Download pending:** Apple notarization and final validation are in progress. The ZIP link above will become available when the beta is published.
+**Developer ID signed and notarized by Apple.** The ZIP includes the app’s stapled notarization ticket.
 
 Requires **macOS 14 or later and an Apple Silicon Mac**. Unzip the download, move `Glow.app` to Applications, and open it. Glow lives in the menu bar without a Dock icon; close the dashboard and reopen it from the menu-bar item.
 
