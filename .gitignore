@@ -1,0 +1,11 @@
+.build/
+.swiftpm/
+dist/
+build/
+.DS_Store
+*.xcuserstate
+.codex/local/
+.env
+.env.*
+*.p12
+*.p8
